@@ -7,7 +7,7 @@ body {
     border-radius: 30px;
     border: 1px black solid;
     box-shadow: 0px 0px 10px 2px black;
-    
+    word-wrap: break-word;
 }
 
 .curriculum-experience {
@@ -51,4 +51,8 @@ h4 {
 h4 em {
     font-size: 1rem;
     font-weight: normal;
+}
+
+#main-cv-container {
+    border: 5px black groove;
 }
